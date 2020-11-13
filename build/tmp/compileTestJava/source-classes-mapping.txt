@@ -1,0 +1,2 @@
+com/study/jpa/sora/SoraApplicationTests.java
+ com.study.jpa.sora.SoraApplicationTests
